@@ -48,7 +48,7 @@ Through Python-based analysis, the project demonstrates sorting/filtering by pop
 - Interesting insight: Movies with 9+ ratings often have fewer reviewers than those rated between 7 and 8.
 
 ## Sample Output Files
-- [plot1.png](plots/plot1.png) and [plot2.png](plots/plot2.png): Visualizations (see `/plots` folder)
+- [plot1.png](plots/plot1.jpg) and [plot2.png](plots/plot2.jpg): Visualizations (see `/plots` folder)
 - [Myproject.ipynb](Myproject.ipynb): All code and detailed steps
 
 ## Tools/Libraries Used
